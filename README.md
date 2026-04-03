@@ -1,4 +1,4 @@
-# median-salaries
+# Median salaries
 Dataset and methodology for college graduates vs. high school graduates median salaries story
 # Overview
 For this story, I sought to identify whether college graduates -- specifically bachelor's degree holders -- earn more than high school graduates and by how much. I found the median earnings 6 and 10 years after entry for bachelor's degree holders ranges between $9K and $140K. Top earners attended STEM-focused, non-profti and selective institutions mostly. College increases earning potential, but which college and which major determines where a person lands on that spectrum.  
