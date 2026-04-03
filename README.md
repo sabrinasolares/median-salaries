@@ -13,3 +13,6 @@ Additionally, footnote indicators originally embedded in the year column were pl
 # Limitations
 This data cannot explain causation. p20_CLEANED.xlsx reports the varying median salaries in relation to educational attaninment, but other factors that could affect income include occupation, industry, geographic location, work experience, etc. Thus, differences in earnings cannot be attributed soley by a person's education level. Additionally, this dataset fails to identify fields of study. That means, bachelor's degree holders are grouped regardless of their major although salaries differ largely depending on the discipline practiced.
 Most-Recent-Cohors-Institutions_CLEANED.xlsx provides institutional-level data and, because of that, the data more so reflects aggregate outcomes than individual experiences. Furthermore, this data set fails to account for a couple of the same factors p20_CLEANED.xlsx omits as well: occupation, industry, geographic location, field of study, etc. Omitting fields of study, because job opportunities depend heavily on what a person majored in, is a major limitation. 
+# Visuals
+![Median earnings by institution type](Institution_Type_Earnings.png)]
+![Median earnings after 6 years of entry](Median_Earnings_After_6_Years.png)]
